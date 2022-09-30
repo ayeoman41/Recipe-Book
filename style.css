@@ -1,5 +1,19 @@
+h1 {
+    text-align: center;
+    font-family: Verdana, Times New Roman, Tahoma, sans-serif, Verdana, Tahoma;
+    font-size: 100px;
+}
 .container {
     display: grid;
     gap: 15px;
     grid-template-columns: 1fr 1fr;
+    text-align: left;
+    height: 100%;
+    padding: 16px;
+    box-sizing: border-box;
 }
+
+.cobbler, .pudding, .pineapple, .cookies {
+    background-color: aquamarine;
+}
+
