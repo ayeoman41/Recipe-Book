@@ -2,6 +2,9 @@ h1 {
     text-align: center;
     font-family: Verdana, Times New Roman, Tahoma, sans-serif, Verdana, Tahoma;
     font-size: 100px;
+    color:aquamarine;
+    background-color: black;
+    border-radius: 8px;
 }
 .container {
     display: grid;
@@ -15,5 +18,8 @@ h1 {
 
 .cobbler, .pudding, .pineapple, .cookies {
     background-color: aquamarine;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 0;
 }
 
