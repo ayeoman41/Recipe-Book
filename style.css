@@ -1,3 +1,8 @@
+body {
+    background-image: linear-gradient(to bottom right, white, aquamarine, rgb(11, 143, 33));
+}
+
+
 h1 {
     text-align: center;
     font-family: Verdana, Times New Roman, Tahoma, sans-serif, Verdana, Tahoma;
